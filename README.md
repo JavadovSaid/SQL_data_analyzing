@@ -59,11 +59,11 @@ WHERE
 ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
-
+![Top paying roles](https://github.com/JavadovSaid/SQL_data_analyzing/blob/main/archive/sql2.png?raw=true)
 
 ### 2. In-Demand Skills for Remote Roles:
 
-Explored the most in-demand skills for remote Data Scientist and Business Analyst jobs.
+Explored the most in-demand skills for Data Scientist job.
 Ranked skills by demand count and linked them with average salaries.
 
 ```sql
@@ -98,6 +98,7 @@ INNER JOIN skills_dim ON
     skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY salary_year_avg DESC;
 ```
+![Most demanded skills for Data Science](https://github.com/JavadovSaid/SQL_data_analyzing/blob/main/archive/sql4.png?raw=true)
 ### 3. Salary Trends by Skills:
 
 Analyzed the average salary associated with specific skills for remote Business Analyst jobs.
