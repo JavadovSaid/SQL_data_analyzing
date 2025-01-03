@@ -249,7 +249,7 @@ LIMIT 15;
 JOINs, and aggregations to derive complex insights.
 
 - **Data Enrichment:** How to enrich datasets by joining multiple tables and deriving meaningful insights.
-- 
+
 - **Skill Trends:** Certain skills, such as Python, SQL,
 and Machine Learning, are consistently in high demand across roles.
 
