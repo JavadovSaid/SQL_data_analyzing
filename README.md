@@ -61,7 +61,7 @@ LIMIT 10;
 ```
 ![Top paying roles](https://github.com/JavadovSaid/SQL_data_analyzing/blob/main/archive/sql2.png?raw=true)
 
-### 2. In-Demand Skills for Remote Roles:
+### 2. In-Demand Skills for Data Science role:
 
 Explored the most in-demand skills for Data Scientist job.
 Ranked skills by demand count and linked them with average salaries.
